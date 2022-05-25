@@ -9,7 +9,7 @@ const Mobiledev = () => {
     return(
 
 
-
+// things will change
         <div className="content">
          <div className="website">
         <div className="web">
